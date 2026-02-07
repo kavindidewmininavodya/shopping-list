@@ -4,6 +4,13 @@
     font-family: 'Comfortaa', cursive;
 }
 
+.container{
+    display: flex;
+    flex-direction: column;
+    max-width: 320px;
+    margin: 30px auto;
+}
+
 input {
     color: azure;
     background-color: whitesmoke;
@@ -25,9 +32,3 @@ button{
     text-align: center ;
 }
 
-.container{
-    display: flex;
-    flex-direction: column;
-    max-width: 320px;
-    margin: 30px auto;
-}
