@@ -32,7 +32,6 @@ button{
     text-align: center ;
 }
 
-/* Add this to your index.css */
 li {
     cursor: pointer;
     user-select: none;
@@ -43,7 +42,6 @@ li:hover {
     background-color: #f0f0f0;
 }
 
-/* Style for marked items */
 .done {
     text-decoration: line-through;
     color: gray;
